@@ -117,6 +117,7 @@ t_map *init_map(char *filename){
         free(fline);
         free(map);
         if(filename) fclose(file);
+        return NULL;
     }
 
     int fstrlen = ft_strlen(fline);

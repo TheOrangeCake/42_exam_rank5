@@ -27,7 +27,7 @@ $
 $> echo 'sdxssdswdxddddsxaadwxwdxwaa' | ./a.out 10 6 0 | cat -e
 $
 O OOO $
-O O $
+  O O $
 OOO O $
 O OOO $
 $
